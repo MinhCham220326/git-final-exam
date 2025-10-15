@@ -1,3 +1,6 @@
 Dòng 1: Hello
 Dòng 2: Đây là file online
 Dòng 3: Commit trực tiếp trên web
+Dòng 4: Thêm từ local
+Dòng 5: Hoàn tất bài tập
+
