@@ -1,1 +1,9 @@
-Mô tả tính năng mới (ít nhất 5 dòng)
+Git giúp quản lý phiên bản code hiệu quả, theo dõi mọi thay đổi.
+
+Là công cụ không thể thiếu khi làm việc nhóm, tránh xung đột code.
+
+Việc tạo nhánh (branch) giúp thử nghiệm mà không ảnh hưởng main.
+
+Git hỗ trợ quay lại phiên bản cũ khi cần, rất an toàn.
+
+Học Git ban đầu khó, nhưng dùng lâu sẽ thấy cực kỳ tiện lợi.
